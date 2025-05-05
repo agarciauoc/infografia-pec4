@@ -1,0 +1,85 @@
+@import 'tailwindcss';
+
+@layer base {
+    body {
+        @apply bg-neutral-900 text-neutral-50;
+    }
+}
+
+@layer components {
+    .chart-container {
+        margin: 20px auto;
+        position: relative; /* For tooltip */
+    }
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: #ccc;
+        shape-rendering: crispEdges;
+    }
+    .axis text {
+        fill: #555;
+        font-size: 11px;
+    }
+    .bar-segment { /* Style for the stacked segments */
+        stroke: #fff;
+        stroke-width: 0.5px;
+        transition: opacity 0.2s;
+    }
+    .bar-segment:hover {
+         opacity: 0.7; /* Highlight on hover */
+    }
+    /* --- Estilo para las etiquetas dentro de las barras --- */
+    .bar-label {
+        fill: white; /* Color del texto */
+        font-size: 9px; /* Tamaño pequeño para que quepa */
+        font-weight: bold;
+        text-anchor: middle; /* Centrado horizontal */
+        dominant-baseline: middle; /* Centrado vertical */
+        pointer-events: none; /* Evita que el texto interfiera con el hover de la barra */
+         /* Optional: subtle shadow for readability on similar colors */
+        /* text-shadow: 0 0 2px black; */
+    }
+
+    .grid line {
+        stroke: #e0e0e0;
+        stroke-opacity: 0.7;
+        shape-rendering: crispEdges;
+    }
+    .grid path {
+        stroke-width: 0;
+    }
+    .tooltip {
+        position: absolute;
+        text-align: center;
+        padding: 8px;
+        font-size: 12px;
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        border-radius: 4px;
+        pointer-events: none;
+        opacity: 0;
+        transition: opacity 0.2s;
+        white-space: nowrap;
+    }
+    #legend {
+        margin-top: 15px;
+        text-align: center;
+    }
+    .legend-item {
+        display: inline-block;
+        margin: 0 10px 5px 10px;
+    }
+    .legend-color {
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        margin-right: 5px;
+        vertical-align: middle;
+        border: 1px solid #ccc;
+    }
+    .legend-text {
+        font-size: 12px;
+        vertical-align: middle;
+    }
+}
