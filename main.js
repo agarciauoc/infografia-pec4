@@ -1,7 +1,3 @@
-// Horas de trabajo x mes
-// Índice de empleo EPA
-// Ingresos EES
-// Gastos
 document.addEventListener('DOMContentLoaded', function() {
 
     const svgContainer = d3.select("#svg-container");

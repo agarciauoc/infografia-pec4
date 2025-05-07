@@ -1,0 +1,13 @@
+ID_Producto,Nombre_Producto,Categoria,Precio_Unitario,Cantidad_Vendida,Fecha_Venta,Region
+P001,Laptop Gamer,Electrónica,1200.50,10,2023-01-15,Norte
+P002,Mouse Óptico,Accesorios,25.00,50,2023-01-16,Norte
+P003,Teclado Mecánico,Accesorios,75.99,30,2023-01-17,Sur
+P004,Monitor 27",Electrónica,350.00,15,2023-01-18,Este
+P005,Silla Ergonómica,Muebles,,20,2023-01-19,Oeste
+P001,Laptop Gamer,Electronica,1190.00,5,2023-02-10,Norte
+P006,Webcam HD,Accesorios,45.50,25,2023-02-12,Sur
+P002,Mouse Óptico,Accesorios,24.50,40,2023-02-14,Este
+P007,Disco Duro SSD 1TB,Almacenamiento,120.00,18,2023-02-15,Norte
+P003,Teclado Mecánico,Accesorios,75.00,22,2023-02-18,Oeste
+,Producto Desconocido,Otros,10.00,5,2023-02-20,
+P008,Impresora Multifunción,Electrónica,220.00,8,2023-03-01,Sur
