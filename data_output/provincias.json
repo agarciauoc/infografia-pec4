@@ -1,0 +1,323 @@
+{
+    "comunidades": [
+        {
+            "id": "01",
+            "name": "Andalucía",
+            "area": 87.268,
+            "provinces": [
+                {
+                    "id": "04",
+                    "name": "Almería"
+                },
+                {
+                    "id": "11",
+                    "name": "Cádiz"
+                },
+                {
+                    "id": "14",
+                    "name": "Córdoba"
+                },
+                {
+                    "id": "18",
+                    "name": "Granada"
+                },
+                {
+                    "id": "21",
+                    "name": "Huelva"
+                },
+                {
+                    "id": "23",
+                    "name": "Jaén"
+                },
+                {
+                    "id": "29",
+                    "name": "Málaga"
+                },
+                {
+                    "id": "41",
+                    "name": "Sevilla"
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "name": "Aragón",
+            "area": 47.719,
+            "provinces": [
+                {
+                    "id": "22",
+                    "name": "Huesca"
+                },
+                {
+                    "id": "44",
+                    "name": "Teruel"
+                },
+                {
+                    "id": "50",
+                    "name": "Zaragoza"
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "name": "Asturias, Principado de",
+            "area": 10.604,
+            "provinces": [
+                {
+                    "id": "33",
+                    "name": "Asturias"
+                }
+            ]
+        },
+        {
+            "id": "04",
+            "name": "Balears, Illes",
+            "area": 4.992,
+            "provinces": [
+                {
+                    "id": "07",
+                    "name": "Balears, Illes"
+                }
+            ]
+        },
+        {
+            "id": "05",
+            "name": "Canarias",
+            "area": 7.447,
+            "provinces": [
+                {
+                    "id": "35",
+                    "name": "Las Palmas"
+                },
+                {
+                    "id": "38",
+                    "name": "Santa Cruz de Tenerife"
+                }
+            ]
+        },
+        {
+            "id": "06",
+            "name": "Cantabria",
+            "area": 5.326,
+            "provinces": [
+                {
+                    "id": "39",
+                    "name": "Cantabria"
+                }
+            ]
+        },
+        {
+            "id": "07",
+            "name": "Castilla y León",
+            "area": 94.226,
+            "provinces": [
+                {
+                    "id": "05",
+                    "name": "Ávila"
+                },
+                {
+                    "id": "09",
+                    "name": "Burgos"
+                },
+                {
+                    "id": "24",
+                    "name": "León"
+                },
+                {
+                    "id": "34",
+                    "name": "Palencia"
+                },
+                {
+                    "id": "37",
+                    "name": "Salamanca"
+                },
+                {
+                    "id": "40",
+                    "name": "Segovia"
+                },
+                {
+                    "id": "42",
+                    "name": "Soria"
+                },
+                {
+                    "id": "47",
+                    "name": "Valladolid"
+                },
+                {
+                    "id": "49",
+                    "name": "Zamora"
+                }
+            ]
+        },
+        {
+            "id": "08",
+            "name": "Castilla - La Mancha",
+            "area": 94.226,
+            "provinces": [
+                {
+                    "id": "02",
+                    "name": "Albacete"
+                },
+                {
+                    "id": "13",
+                    "name": "Ciudad Real"
+                },
+                {
+                    "id": "16",
+                    "name": "Cuenca"
+                },
+                {
+                    "id": "19",
+                    "name": "Guadalajara"
+                },
+                {
+                    "id": "45",
+                    "name": "Toledo"
+                }
+            ]
+        },
+        {
+            "id": "09",
+            "name": "Cataluña",
+            "area": 32.107,
+            "provinces": [
+                {
+                    "id": "08",
+                    "name": "Barcelona"
+                },
+                {
+                    "id": "17",
+                    "name": "Girona"
+                },
+                {
+                    "id": "25",
+                    "name": "Lleida"
+                },
+                {
+                    "id": "43",
+                    "name": "Tarragona"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Comunitat Valenciana",
+            "area": 23.255,
+            "provinces": [
+                {
+                    "id": "03",
+                    "name": "Alicante"
+                },
+                {
+                    "id": "12",
+                    "name": "Castellón"
+                },
+                {
+                    "id": "46",
+                    "name": "Valencia"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Extremadura",
+            "area": 41.635,
+            "provinces": [
+                {
+                    "id": "06",
+                    "name": "Badajoz"
+                },
+                {
+                    "id": "10",
+                    "name": "Cáceres"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Galicia",
+            "area": 29.574,
+            "provinces": [
+                {
+                    "id": "15",
+                    "name": "A Coruña"
+                },
+                {
+                    "id": "27",
+                    "name": "Lugo"
+                },
+                {
+                    "id": "32",
+                    "name": "Ourense"
+                },
+                {
+                    "id": "36",
+                    "name": "Pontevedra"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Madrid, Comunidad de",
+            "area": 8.022,
+            "provinces": [
+                {
+                    "id": "28",
+                    "name": "Madrid"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "name": "Murcia, Región de",
+            "area": 11.313,
+            "provinces": [
+                {
+                    "id": "30",
+                    "name": "Murcia"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Navarra, Comunidad Foral de",
+            "area": 10.391,
+            "provinces": [
+                {
+                    "id": "31",
+                    "name": "Navarra"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "name": "País Vasco",
+            "area": 7.234,
+            "provinces": [
+                {
+                    "id": "01",
+                    "name": "Araba/Álava"
+                },
+                {
+                    "id": "48",
+                    "name": "Bizkaia"
+                },
+                {
+                    "id": "20",
+                    "name": "Gipuzkoa"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "name": "Rioja, La",
+            "area": 5.045,
+            "provinces": [
+                {
+                    "id": "26",
+                    "name": "La Rioja"
+                }
+            ]
+        }
+    ]
+}

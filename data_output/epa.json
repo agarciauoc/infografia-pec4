@@ -1,0 +1,1192 @@
+[
+    {
+        "id_comunidad": "01",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 50.67
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 35.73
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 51.65
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 37.75
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 52.57
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 39.33
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 53.0
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 40.92
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 54.0
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "tasa_empleo": 41.22
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 57.0
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 45.83
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 58.04
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 46.86
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 58.97
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 47.37
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 59.32
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 48.01
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 59.6
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "tasa_empleo": 48.49
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 46.71
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 39.58
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 49.05
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 39.84
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 48.01
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 38.97
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 47.41
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 40.96
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 50.44
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "tasa_empleo": 42.41
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 56.43
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 46.97
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 58.67
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 49.73
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 62.38
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 52.14
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 61.44
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 52.75
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 62.74
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "tasa_empleo": 53.28
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 48.17
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 40.37
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 47.74
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 40.94
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 53.81
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 43.85
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 55.75
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 44.84
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 56.02
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "tasa_empleo": 46.92
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 52.31
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 42.57
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 54.71
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 43.69
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 55.48
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 43.9
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 55.63
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 45.46
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 57.2
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "tasa_empleo": 46.21
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 53.02
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 41.74
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 53.34
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 41.44
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 54.01
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 43.99
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 54.58
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 43.2
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 54.39
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "tasa_empleo": 44.2
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 55.77
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 38.48
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 57.89
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 40.82
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 58.57
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 41.72
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 58.53
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 43.18
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 58.04
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "tasa_empleo": 42.79
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 57.37
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 48.33
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 58.96
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 49.34
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 59.78
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 50.19
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 60.46
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 51.3
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 61.32
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "tasa_empleo": 51.13
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 54.17
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 41.96
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 54.33
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 42.9
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 57.02
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 45.06
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 57.45
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 46.08
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 56.84
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "tasa_empleo": 46.3
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 49.14
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 36.11
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 51.25
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 36.32
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 52.33
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 38.62
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 52.89
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 39.4
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 52.2
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "tasa_empleo": 40.51
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 50.88
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 41.39
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 51.16
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 42.0
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 51.25
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 43.08
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 52.07
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 43.99
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 52.32
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "tasa_empleo": 44.5
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 58.89
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 50.31
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 60.51
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 51.82
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 61.77
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 51.21
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 61.83
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 52.56
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 61.93
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "tasa_empleo": 53.47
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 57.36
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 41.38
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 59.58
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 43.2
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 58.3
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 44.67
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 58.9
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 45.11
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 58.19
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "tasa_empleo": 46.16
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 56.22
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 46.69
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 54.91
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 49.05
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 57.7
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 48.45
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 57.67
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 48.35
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 59.16
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "tasa_empleo": 50.43
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 53.86
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 46.05
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 54.34
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 46.88
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 56.23
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 46.99
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 57.43
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 47.84
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 55.01
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "tasa_empleo": 48.26
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 57.75
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 46.66
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 59.28
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 46.84
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 59.21
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 48.67
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2023,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 59.39
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2023,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 47.7
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2024,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 58.15
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2024,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "tasa_empleo": 47.57
+    }
+]

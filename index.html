@@ -1,33 +1,51 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Infografía y visualización - PEC4 parte 1</title>
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>D3 SVG Color Changer</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script type="module" src="main.js" defer></script>
+    <script src="main.js"></script>
 </head>
 <body>
     <header class="p-5 flex flex-row items-center justify-between bg-neutral-800">
         <h1 class="text-3xl">Infografía y visualización - PEC4 parte 1</h1>
         <h2>Por: Antonio Miguel García del Río</h2>
     </header>
-    <main class="p-5">
-        <h1 class="text-center text-2xl">Total Anual por Tipo de Vaso (Apilado con Valores)</h1>
-        <div id="legend"></div>
-        <div class="chart-container">
-            <svg id="chart"></svg>
-            <div class="tooltip" id="tooltip"></div>
+    <main class="mx-5">
+        <h1 class="text-center text-2xl my-5">EMPLEO / TRABAJO / INGRESOS / GASTOS</h1>
+        <div id="controls" class="flex items-center justify-center gap-5">
+            <label for="selectedColor">
+                <span>Color base:</span>
+                <select id="selectedColor" name="selectedColor"> </select>
+            </label>
+            <label for="selectedDataset">
+                <span>Dataset:</span>
+                <select id="selectedDataset" name="selectedDataset"> </select>
+            </label>
+            <label>
+                <span>Año:</span>
+                <select id="selectedYear" name="selectedYear" disabled>
+                    <option value="2023">2023</option>
+                    <option value="2022">2022</option>
+                    <option value="2021">2021</option>
+                </select>
+            </label>
+            <label>
+                <span>Género:</span>
+                <select id="selectedGender" name="selectedGender" disabled>
+                    <option value="Todos">Todos</option>
+                    <option value="Hombres">Hombres</option>
+                    <option value="Mujeres">Mujeres</option>
+                </select>
+            </label>
         </div>
+        <div id="map-and-legend-container">
+            <div id="svg-container"></div>
+            <div id="legend-container">LEYENDA</div>
+        </div>
+        <div id="tooltip"></div>
     </main>
-    <!-- D3.js library -->
-
-    <script>
-
-
-    </script>
-
 </body>
 </html>

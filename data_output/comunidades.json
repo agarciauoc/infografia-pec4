@@ -1,0 +1,89 @@
+{
+  "comunidades": [
+    {
+      "id": "01",
+      "name": "Andalucía",
+      "provinces":[]
+    },
+    {
+      "id": "02",
+      "name": "Aragón",
+      "provinces":[]
+    },
+    {
+      "id": "03",
+      "name": "Asturias, Principado de",
+      "provinces":[]
+    },
+    {
+      "id": "04",
+      "name": "Balears, Illes",
+      "provinces":[]
+    },
+    {
+      "id": "05",
+      "name": "Canarias",
+      "provinces":[]
+    },
+    {
+      "id": "06",
+      "name": "Cantabria",
+      "provinces":[]
+    },
+    {
+      "id": "07",
+      "name": "Castilla y León",
+      "provinces":[]
+    },
+    {
+      "id": "08",
+      "name": "Castilla - La Mancha",
+      "provinces":[]
+    },
+    {
+      "id": "09",
+      "name": "Cataluña",
+      "provinces":[]
+    },
+    {
+      "id": "10",
+      "name": "Comunitat Valenciana",
+      "provinces":[]
+    },
+    {
+      "id": "11",
+      "name": "Extremadura",
+      "provinces":[]
+    },
+    {
+      "id": "12",
+      "name": "Galicia",
+      "provinces":[]
+    },
+    {
+      "id": "13",
+      "name": "Madrid, Comunidad de",
+      "provinces":[]
+    },
+    {
+      "id": "14",
+      "name": "Murcia, Región de",
+      "provinces":[]
+    },
+    {
+      "id": "15",
+      "name": "Navarra, Comunidad Foral de",
+      "provinces":[]
+    },
+    {
+      "id": "16",
+      "name": "País Vasco",
+      "provinces":[]
+    },
+    {
+      "id": "17",
+      "name": "Rioja, La",
+      "provinces":[]
+    }
+  ]
+}

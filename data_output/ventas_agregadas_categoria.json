@@ -1,0 +1,22 @@
+[
+    {
+        "categoria":"Accesorios",
+        "totalIngresos":7297.2
+    },
+    {
+        "categoria":"Almacenamiento",
+        "totalIngresos":2160.0
+    },
+    {
+        "categoria":"Electronica",
+        "totalIngresos":5950.0
+    },
+    {
+        "categoria":"Electr\u00f3nica",
+        "totalIngresos":19015.0
+    },
+    {
+        "categoria":"Muebles",
+        "totalIngresos":0.0
+    }
+]

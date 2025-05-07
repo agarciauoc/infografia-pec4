@@ -1,0 +1,1634 @@
+[
+    {
+        "id_comunidad": "01",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Media",
+        "salario": 24785.82
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Mediana",
+        "salario": 20492.93
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Media",
+        "salario": 19517.52
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Mediana",
+        "salario": 15743.42
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Media",
+        "salario": 25464.78
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Mediana",
+        "salario": 20997.73
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Media",
+        "salario": 20427.8
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Mediana",
+        "salario": 16516.76
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Media",
+        "salario": 26189.5
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Mediana",
+        "salario": 21378.14
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Media",
+        "salario": 21729.48
+    },
+    {
+        "id_comunidad": "01",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Andalucía",
+        "medida": "Mediana",
+        "salario": 17692.39
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Media",
+        "salario": 26505.7
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Mediana",
+        "salario": 23057.14
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Media",
+        "salario": 21365.11
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Mediana",
+        "salario": 18795.58
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Media",
+        "salario": 27389.18
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Mediana",
+        "salario": 24341.89
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Media",
+        "salario": 22283.81
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Mediana",
+        "salario": 19156.2
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Media",
+        "salario": 28789.96
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Mediana",
+        "salario": 25401.8
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Media",
+        "salario": 23138.72
+    },
+    {
+        "id_comunidad": "02",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Aragón",
+        "medida": "Mediana",
+        "salario": 19654.84
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Media",
+        "salario": 27948.09
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Mediana",
+        "salario": 24674.08
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Media",
+        "salario": 21308.01
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Mediana",
+        "salario": 17389.89
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Media",
+        "salario": 28399.51
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Mediana",
+        "salario": 24842.33
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Media",
+        "salario": 21808.96
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Mediana",
+        "salario": 17878.32
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Media",
+        "salario": 29573.74
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Mediana",
+        "salario": 25922.38
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Media",
+        "salario": 23792.42
+    },
+    {
+        "id_comunidad": "03",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Asturias, Principado de",
+        "medida": "Mediana",
+        "salario": 19071.38
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Media",
+        "salario": 25699.53
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Mediana",
+        "salario": 21624.74
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Media",
+        "salario": 21998.23
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Mediana",
+        "salario": 18585.29
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Media",
+        "salario": 25898.51
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Mediana",
+        "salario": 21946.42
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Media",
+        "salario": 22344.76
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Mediana",
+        "salario": 19752.6
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Media",
+        "salario": 28155.99
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Mediana",
+        "salario": 23410.51
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Media",
+        "salario": 26054.2
+    },
+    {
+        "id_comunidad": "04",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Balears, Illes",
+        "medida": "Mediana",
+        "salario": 22399.92
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Media",
+        "salario": 22697.51
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Mediana",
+        "salario": 18181.65
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Media",
+        "salario": 20461.63
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Mediana",
+        "salario": 17094.27
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Media",
+        "salario": 23619.76
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Mediana",
+        "salario": 18679.87
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Media",
+        "salario": 21178.57
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Mediana",
+        "salario": 17152.56
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Media",
+        "salario": 23588.7
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Mediana",
+        "salario": 19702.75
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Media",
+        "salario": 22574.98
+    },
+    {
+        "id_comunidad": "05",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Canarias",
+        "medida": "Mediana",
+        "salario": 18575.12
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Media",
+        "salario": 25804.13
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Mediana",
+        "salario": 21706.8
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Media",
+        "salario": 20996.83
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Mediana",
+        "salario": 17287.2
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Media",
+        "salario": 27233.75
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Mediana",
+        "salario": 22998.26
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Media",
+        "salario": 21532.96
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Mediana",
+        "salario": 18036.06
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Media",
+        "salario": 27820.83
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Mediana",
+        "salario": 23748.57
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Media",
+        "salario": 22564.11
+    },
+    {
+        "id_comunidad": "06",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cantabria",
+        "medida": "Mediana",
+        "salario": 18557.96
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Media",
+        "salario": 25549.98
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Mediana",
+        "salario": 21457.67
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Media",
+        "salario": 20314.96
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Mediana",
+        "salario": 17000.04
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Media",
+        "salario": 26263.49
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Mediana",
+        "salario": 22476.57
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Media",
+        "salario": 20795.39
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Mediana",
+        "salario": 17479.26
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Media",
+        "salario": 26548.08
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Mediana",
+        "salario": 22712.4
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Media",
+        "salario": 21773.27
+    },
+    {
+        "id_comunidad": "07",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla y León",
+        "medida": "Mediana",
+        "salario": 18166.97
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Media",
+        "salario": 24029.31
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Mediana",
+        "salario": 20048.87
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Media",
+        "salario": 20761.55
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Mediana",
+        "salario": 17037.62
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Media",
+        "salario": 24897.33
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Mediana",
+        "salario": 20970.07
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Media",
+        "salario": 21154.58
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Mediana",
+        "salario": 17580.04
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Media",
+        "salario": 25813.23
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Mediana",
+        "salario": 22001.93
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Media",
+        "salario": 21312.65
+    },
+    {
+        "id_comunidad": "08",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Castilla - La Mancha",
+        "medida": "Mediana",
+        "salario": 17887.13
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Media",
+        "salario": 30003.62
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Mediana",
+        "salario": 25514.32
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Media",
+        "salario": 24096.69
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Mediana",
+        "salario": 20385.64
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Media",
+        "salario": 31212.67
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Mediana",
+        "salario": 26477.82
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Media",
+        "salario": 25015.94
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Mediana",
+        "salario": 21087.54
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Media",
+        "salario": 31878.42
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Mediana",
+        "salario": 27410.44
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Media",
+        "salario": 25659.03
+    },
+    {
+        "id_comunidad": "09",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Cataluña",
+        "medida": "Mediana",
+        "salario": 21602.76
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Media",
+        "salario": 25239.04
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Mediana",
+        "salario": 20937.16
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Media",
+        "salario": 20165.73
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Mediana",
+        "salario": 16540.03
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Media",
+        "salario": 25914.86
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Mediana",
+        "salario": 21773.13
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Media",
+        "salario": 20670.5
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Mediana",
+        "salario": 17129.57
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Media",
+        "salario": 26683.85
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Mediana",
+        "salario": 22501.65
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Media",
+        "salario": 22135.35
+    },
+    {
+        "id_comunidad": "10",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Comunitat Valenciana",
+        "medida": "Mediana",
+        "salario": 18263.9
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Media",
+        "salario": 22071.78
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Mediana",
+        "salario": 18431.63
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Media",
+        "salario": 18791.05
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Mediana",
+        "salario": 15460.28
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Media",
+        "salario": 22794.52
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Mediana",
+        "salario": 18859.72
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Media",
+        "salario": 19833.03
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Mediana",
+        "salario": 16008.34
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Media",
+        "salario": 23170.92
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Mediana",
+        "salario": 19447.99
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Media",
+        "salario": 20637.14
+    },
+    {
+        "id_comunidad": "11",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Extremadura",
+        "medida": "Mediana",
+        "salario": 17367.87
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Media",
+        "salario": 25276.16
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Mediana",
+        "salario": 21045.87
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Media",
+        "salario": 20446.53
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Mediana",
+        "salario": 16765.2
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Media",
+        "salario": 25794.19
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Mediana",
+        "salario": 21367.0
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Media",
+        "salario": 20904.37
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Mediana",
+        "salario": 17012.05
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Media",
+        "salario": 26626.89
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Mediana",
+        "salario": 22994.16
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Media",
+        "salario": 21912.75
+    },
+    {
+        "id_comunidad": "12",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Galicia",
+        "medida": "Mediana",
+        "salario": 18165.51
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Media",
+        "salario": 31495.31
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Mediana",
+        "salario": 25381.84
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Media",
+        "salario": 25900.29
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Mediana",
+        "salario": 21072.14
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Media",
+        "salario": 32213.88
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Mediana",
+        "salario": 26497.78
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Media",
+        "salario": 26578.07
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Mediana",
+        "salario": 21818.13
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Media",
+        "salario": 34113.4
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Mediana",
+        "salario": 27110.0
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Media",
+        "salario": 28123.47
+    },
+    {
+        "id_comunidad": "13",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Madrid, Comunidad de",
+        "medida": "Mediana",
+        "salario": 22898.14
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Media",
+        "salario": 25227.26
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Mediana",
+        "salario": 21142.41
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Media",
+        "salario": 20007.14
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Mediana",
+        "salario": 16093.74
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Media",
+        "salario": 25674.66
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Mediana",
+        "salario": 21244.88
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Media",
+        "salario": 20189.83
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Mediana",
+        "salario": 16257.09
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Media",
+        "salario": 26240.66
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Mediana",
+        "salario": 21555.29
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Media",
+        "salario": 20956.37
+    },
+    {
+        "id_comunidad": "14",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Murcia, Región de",
+        "medida": "Mediana",
+        "salario": 16981.34
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Media",
+        "salario": 31317.91
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Mediana",
+        "salario": 27762.48
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Media",
+        "salario": 24047.13
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Mediana",
+        "salario": 21861.92
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Media",
+        "salario": 31643.22
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Mediana",
+        "salario": 28151.09
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Media",
+        "salario": 24809.14
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Mediana",
+        "salario": 22431.68
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Media",
+        "salario": 31959.85
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Mediana",
+        "salario": 28806.88
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Media",
+        "salario": 26033.3
+    },
+    {
+        "id_comunidad": "15",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Navarra, Comunidad Foral de",
+        "medida": "Mediana",
+        "salario": 23484.97
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Media",
+        "salario": 33040.1
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Mediana",
+        "salario": 29858.0
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Media",
+        "salario": 27125.9
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Mediana",
+        "salario": 23566.0
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Media",
+        "salario": 33706.34
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Mediana",
+        "salario": 30698.57
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Media",
+        "salario": 28084.16
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Mediana",
+        "salario": 24316.65
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Media",
+        "salario": 35095.67
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Mediana",
+        "salario": 31877.52
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Media",
+        "salario": 29314.69
+    },
+    {
+        "id_comunidad": "16",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "País Vasco",
+        "medida": "Mediana",
+        "salario": 24911.92
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Media",
+        "salario": 25664.88
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2020,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Mediana",
+        "salario": 22207.08
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Media",
+        "salario": 20959.44
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2020,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Mediana",
+        "salario": 17061.71
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Media",
+        "salario": 26488.06
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2021,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Mediana",
+        "salario": 23104.98
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Media",
+        "salario": 21135.77
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2021,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Mediana",
+        "salario": 17955.65
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Media",
+        "salario": 27741.6
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2022,
+        "genero": "Hombres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Mediana",
+        "salario": 24562.11
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Media",
+        "salario": 22264.39
+    },
+    {
+        "id_comunidad": "17",
+        "año": 2022,
+        "genero": "Mujeres",
+        "nombre_comunidad": "Rioja, La",
+        "medida": "Mediana",
+        "salario": 18613.25
+    }
+]

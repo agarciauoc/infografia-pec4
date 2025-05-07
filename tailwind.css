@@ -4,9 +4,44 @@
     body {
         @apply bg-neutral-900 text-neutral-50;
     }
+    select {
+        @apply h-8 rounded-lg px-2 bg-neutral-500;
+    }
 }
 
 @layer components {
+    #map-and-legend-container {
+        position: relative;
+        margin-top: 1rem;
+    }
+    #svg-container {
+        position: relative;
+        width: 80%;
+        max-width: 1400px;
+        margin: 0 auto;
+        box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+    }
+    #legend-container {
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+        padding: .5rem;
+        box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+    }
+    #tooltip {
+        position: absolute; /* Para poder posicionarlo con JS */
+        opacity: 0;         /* Oculto por defecto */
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 4px;
+        padding: 8px;
+        font-size: 12px;
+        color: #333;
+        pointer-events: none; /* Para que el tooltip no interfiera con los eventos del mouse sobre el SVG */
+        transition: opacity 0.2s; /* Transición suave */
+        box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+    }
+
     .chart-container {
         margin: 20px auto;
         position: relative; /* For tooltip */
